@@ -14,17 +14,17 @@ Key Functionalities:
 5. Cascaded deletion of contact and its properties
 
 Each record has following details:
-• Name: First, Middle, and Last name
-• Address List:
+1. Name: First, Middle, and Last name
+2. Address List:
     - Type of address (e.g. home, work, other, etc.)
     - Street Address
     - City
     - State
     - Zip code (i.e. postal code)
-• Phone Number List:
+3. Phone Number List:
     - Type of number (e.g. home, work, fax, etc.)
     - Area Code (3-digits)
     - Number
-• Date List:
+4. Date List:
     - Type of date (e.g. birthday, anniversary, etc.)
     - Calendar date
