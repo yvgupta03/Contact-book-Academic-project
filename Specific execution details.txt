@@ -1,9 +1,4 @@
 Name of GUI - ATLASBASE
-There are 3 components - Project folder, Design Document and User Guide.txt
-
-A screen shot of GUI on how to use the app with pictures.
-
-‘Design Document’ document explains overview of how the application works, the data flow within the application(front end <-> backend), technologies used, challenges faced. 
 
 You need to have MYSQL installed in the computer. There is a Create2.sql fill in the SQL folder and later import the csv files as well using Workbench. 
 
