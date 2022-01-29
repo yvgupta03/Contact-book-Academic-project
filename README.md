@@ -9,6 +9,9 @@ Schema diagram in Schema pic.png
 
 Details to use the code in Specific execution details.txt
 
+Sample UI screenshot
+![GUI image](/Screenshot_Of_UI.PNG)
+
 Key Functionalities:
 1. Simple graphical user interface
 2. Contact Search
