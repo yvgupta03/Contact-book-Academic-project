@@ -1,0 +1,23 @@
+Name of GUI - ATLASBASE
+There are 3 components - Project folder, Design Document and User Guide.txt
+
+A screen shot of GUI on how to use the app with pictures.
+
+‘Design Document’ document explains overview of how the application works, the data flow within the application(front end <-> backend), technologies used, challenges faced. 
+
+You need to have MYSQL installed in the computer. There is a Create2.sql fill in the SQL folder and later import the csv files as well using Workbench. 
+
+In cmd --> source create.sql  --> This creates the database and schema.
+
+In order to compile and build the application, you will need a Java Run-time Environment. After that you can find a JAR file in the target folder. You just need to run that JAR file. 
+
+Language used is JAVA and MYSQL. 
+Software/IDE used is NetBeans and MYSQL WORKBENCH 8.0 CE.
+goto --> C:\Program Files\MySQL\MySQL Server 8.0\bin 
+and use --> mysql -u root -p  ---> to login
+
+My file is configured with MySQL Password : Atlasco3#
+Can be changed manually in the code or later a parameterized main method can also be used.
+
+Will also need mysql-java-connector 8.0.27 to connect your database and GUI, in order to connect them, the correct file name should be mentioned in the pom.XML file of the main project. 
+
