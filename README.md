@@ -4,8 +4,8 @@ This is an academic project intended towards implementation of Java based GUI of
 
 Contact data from csv folder.
 
-Schema diagram in Schema pic.jpg 
-![Schema image](/Schema_pic.PNG)
+Schema diagram in Schema pic.png 
+![Schema image](/Schema pic.PNG)
 
 Details to use the code in Specific execution details.txt
 
